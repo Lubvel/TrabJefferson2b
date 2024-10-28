@@ -1,0 +1,11 @@
+.container-product-form {
+  display: flex;
+  justify-content: space-between;
+}
+.container-product-form .one-form-input {
+  width: 49%;
+}
+
+.success-msg {
+  color: green;
+}
